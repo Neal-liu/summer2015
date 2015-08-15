@@ -8,3 +8,5 @@
    -可以假設 boundary 是2億，去想如何處理 PHONE_BOOK
 - Pentium 4: 512K
 - [Optimizing Program Performance] (http://csapp.cs.cmu.edu/2e/ch5-preview.pdf) [CSAPP ch5] 
+
+Hint : Cache Miss
